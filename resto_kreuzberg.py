@@ -17,10 +17,10 @@ HTML_start ="""
     <html>
     <head>
     <meta>
-    <title>Restaurant Finder</title>
+    <title>Restaurants in Berlin </title>
     <link rel="stylesheet" href="/style.css">
     <body>
-    <h1> Neighbourhood: Kreuzberg</h1>
+    <h1> Berlin's Restaurants: Kreuzberg !</h1>
     """
 
 HTML_end ="""</body>\n</html>

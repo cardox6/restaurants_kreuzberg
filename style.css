@@ -1,0 +1,14 @@
+
+
+body {
+    background-image: url("img_back.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    text-align: justify;
+    font-size: 30px;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 60px;
+  }
